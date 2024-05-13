@@ -8,4 +8,4 @@ Attempt to make a template boilerplate C programming project for complete beginn
 - [ ] Implement examples
 - [ ] Implement construction / code generation utility script
 - [ ] Write docs
-- [ ] Move docs to Wiki
+- [ ] Populate [Wiki](/../../wiki)
